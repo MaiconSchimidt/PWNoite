@@ -1,0 +1,6 @@
+<?php
+// comentario em php
+/*
+
+*/
+?>
